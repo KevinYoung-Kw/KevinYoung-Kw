@@ -12,9 +12,9 @@ AI 产品实践者 · 自媒体博主 · 持续构建者
 AI product practitioner · content creator · builder
 
 <p>
-  <a href="https://www.kw-aigc.cn"><img src="https://img.shields.io/badge/个人网站-D9C2A3?style=flat-square&logo=googlechrome&logoColor=5C4033" /></a>
-  <a href="https://mp.weixin.qq.com/s/7ME2FZdOVlEmVxlGE1NqsQ"><img src="https://img.shields.io/badge/公众号-C9A27E?style=flat-square&logo=wechat&logoColor=5C4033" /></a>
-  <a href="https://www.xiaohongshu.com/user/profile/642c383e000000001001e9e4"><img src="https://img.shields.io/badge/小红书-BB8C63?style=flat-square&logo=xiaohongshu&logoColor=5C4033" /></a>
+  <a href="https://www.kw-aigc.cn"><img src="./assets/kw-icon.svg" width="14" alt="KW" /> 个人网站</a> ·
+  <a href="https://mp.weixin.qq.com/s/7ME2FZdOVlEmVxlGE1NqsQ"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/wechat.svg" width="14" alt="WeChat" /> 公众号</a> ·
+  <a href="https://www.xiaohongshu.com/user/profile/642c383e000000001001e9e4"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/xiaohongshu.svg" width="14" alt="Xiaohongshu" /> 小红书</a>
 </p>
 
 <p>
@@ -52,56 +52,13 @@ I work at the intersection of AI products, agent workflows, automation, and pers
 
 ## 技术栈 / Tech Stack
 
-<div align="center">
-<table>
-  <tr>
-    <td width="50%" valign="top">
+| **Product & AI** | **Engineering** |
+| --- | --- |
+| ![AI Product Design](https://img.shields.io/badge/AI%20Product%20Design-111111?style=flat-square&logo=openai&logoColor=white)<br>![Workflow Design](https://img.shields.io/badge/Workflow%20Design-6B4F3A?style=flat-square)<br>![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A6B52?style=flat-square)<br>![AI Evaluation](https://img.shields.io/badge/AI%20Evaluation-B59A7A?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)<br>![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<br>![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)<br>![API Integration](https://img.shields.io/badge/API%20Integration-6B7280?style=flat-square)<br>![CLI Tools](https://img.shields.io/badge/CLI%20Tools-374151?style=flat-square) |
 
-### Product & AI
-
-- AI Product Design
-- Workflow Design
-- Prompt Engineering
-- AI Evaluation
-
-</td>
-    <td width="50%" valign="top">
-
-### Engineering
-
-- Python
-- JavaScript
-- TypeScript
-- Node.js
-- API Integration
-- CLI Tools
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### Automation & Knowledge
-
-- Agent Workflow
-- OpenClaw
-- Obsidian
-- Markdown
-- LLM Wiki
-
-</td>
-    <td width="50%" valign="top">
-
-### Building Style
-
-- Rapid Prototyping
-- Solo-building
-- Vibe Coding
-
-</td>
-  </tr>
-</table>
-</div>
+| **Automation & Knowledge** | **Building Style** |
+| --- | --- |
+| ![Agent Workflow](https://img.shields.io/badge/Agent%20Workflow-6B4F3A?style=flat-square)<br>![OpenClaw](https://img.shields.io/badge/OpenClaw-8A6B52?style=flat-square)<br>![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)<br>![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)<br>![LLM Wiki](https://img.shields.io/badge/LLM%20Wiki-B59A7A?style=flat-square) | ![Rapid Prototyping](https://img.shields.io/badge/Rapid%20Prototyping-8B5E3C?style=flat-square)<br>![Solo-building](https://img.shields.io/badge/Solo--building-6F4E37?style=flat-square)<br>![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-A67C52?style=flat-square) |
 
 ## 内容与写作 / Writing
 
