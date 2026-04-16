@@ -1,46 +1,115 @@
-# 你好，我是水的离子积 / Hi, I'm Kevin
+<div align="center">
 
-AI 产品实践者、自媒体博主、持续构建者。  
-关注 AI 产品、Agent workflow、自动化工具链、个人知识系统，以及把想法快速做成可用原型。  
+# 水的离子积 / Kevin
 
-AI product practitioner, content creator, and builder.  
-Focused on AI products, agent workflows, automation toolchains, personal knowledge systems, and turning ideas into usable prototypes fast.
+### Building in AI Era
 
-## 我在做什么 / What I'm working on
+AI 产品实践者 · 自媒体博主 · 持续构建者  
+AI product practitioner · content creator · builder
 
-- AI 产品方法与工作流设计 / AI product thinking and workflow design
+<p>
+  <a href="https://www.kw-aigc.cn">个人网站</a> •
+  <a href="https://mp.weixin.qq.com/s/7ME2FZdOVlEmVxlGE1NqsQ">公众号</a> •
+  <a href="https://www.xiaohongshu.com/user/profile/642c383e000000001001e9e4">小红书</a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/AI%20Products-111111?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent%20Workflow-222222?style=flat-square&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
+</p>
+
+</div>
+
+## 关于我 / About Me
+
+你好，我是水的离子积。  
+我关注 AI 产品、Agent workflow、自动化工具链、个人知识系统，也持续写作和做项目，尝试把复杂技术变成能被理解、能被使用、能真正进入工作流的东西。
+
+Hi, I'm Kevin.  
+I work at the intersection of AI products, agent workflows, automation, and personal knowledge systems — turning complex ideas into understandable, usable, workflow-ready products and content.
+
+- 个人网站 / Website: https://www.kw-aigc.cn
+- 微信公众号 / WeChat Official Account: [水的实践说](https://mp.weixin.qq.com/s/7ME2FZdOVlEmVxlGE1NqsQ)
+- 小红书 / Xiaohongshu: [主页](https://www.xiaohongshu.com/user/profile/642c383e000000001001e9e4)
+- 微信 / WeChat: `kwaigc`
+
+## 我在做什么 / What I’m building
+
+- AI 产品方法与原型设计 / AI product thinking and prototyping
 - Agent workflow / OpenClaw / automation experiments
 - Obsidian / LLM Wiki / personal knowledge systems
-- Vibe Coding / rapid prototyping / solo-building
-- 内容写作与实践复盘 / writing from hands-on practice
+- Vibe coding / rapid prototyping / solo-building
+- 从真实实践中写作与复盘 / writing from hands-on practice
 
 ## 技术栈 / Tech Stack
 
-- **Product & AI**: AI Product Design, Workflow Design, Prompt Engineering
-- **Automation**: Agent Workflow, OpenClaw, CLI-based automation
-- **Programming**: Python, JavaScript, Node.js
-- **Knowledge Systems**: Obsidian, Markdown, LLM Wiki
-- **Building**: GitHub, API integration, rapid prototyping, Vibe Coding
+**Product & AI**  
+AI Product Design · Workflow Design · Prompt Engineering · AI Evaluation
 
-## 内容与输出 / Writing & Content
+**Engineering**  
+Python · JavaScript · TypeScript · Node.js · API Integration · CLI Tools
 
-我会持续分享 AI 产品评测、自动化实践、Agent 工作流与个人系统搭建。  
+**Automation & Knowledge**  
+Agent Workflow · OpenClaw · Obsidian · Markdown · LLM Wiki
+
+**Building Style**  
+Rapid Prototyping · Solo-building · Vibe Coding
+
+## 置顶项目 / Featured Projects
+
+### [叉叉的空间 / chacha_space](https://github.com/KevinYoung-Kw/chacha_space)
+一个会逐步理解用户习惯的 AI 伙伴方向项目，聚焦陪伴、待办与个性化交互。  
+An AI companion project exploring memory, task management, and personalized interaction.
+
+**Stack:** TypeScript
+
+### [calculate-your-salary](https://github.com/KevinYoung-Kw/calculate-your-salary)
+一个把复杂计算做得更直观的工具型项目，也体现我偏好的产品思路：先解决真实问题，再优化体验表达。  
+A utility project that turns complicated calculation into a clearer user experience.
+
+**Live:** https://calculate-your-salary.vercel.app  
+**Stack:** TypeScript
+
+### [stoi-cli](https://github.com/KevinYoung-Kw/stoi-cli)
+偏向 CLI 与自动化场景的小工具实践，体现我对命令行工作流与效率工具的长期兴趣。  
+A small CLI/automation-oriented project reflecting my long-term interest in terminal workflows and productivity tools.
+
+**Stack:** Python
+
+## 内容与写作 / Writing
+
+我持续分享 AI 产品深度测评、自动化实践、Agent 工作流，以及个人系统搭建。  
 I write about AI product reviews, automation practice, agent workflows, and personal systems.
 
-- 微信公众号 / WeChat Official Account: [水的实践说](https://mp.weixin.qq.com/s/7ME2FZdOVlEmVxlGE1NqsQ)
-- 小红书 / Xiaohongshu: [主页](https://www.xiaohongshu.com/user/profile/642c383e000000001001e9e4)
+如果你对这些主题感兴趣，可以在这些地方找到我：
 
-## 精选方向 / Selected Interests
+- [公众号：水的实践说](https://mp.weixin.qq.com/s/7ME2FZdOVlEmVxlGE1NqsQ)
+- [小红书主页](https://www.xiaohongshu.com/user/profile/642c383e000000001001e9e4)
+- [个人网站](https://www.kw-aigc.cn)
 
-- AI-native products
-- Agent + human collaboration
-- Workflow automation
-- Personal operating systems
-- One-person company mindset
+## GitHub Stats
 
-## 联系方式 / Contact
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KevinYoung-Kw&show_icons=true&hide_border=true&rank_icon=github&locale=cn&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinYoung-Kw&layout=compact&hide_border=true&langs_count=6&theme=default" />
+</div>
 
-- WeChat: `kwaigc`
+<div align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=KevinYoung-Kw&hide_border=true&locale=zh_Hans" />
+</div>
+
+## 当前关注 / Current Focus
+
+- AI-native 产品体验
+- Agent + Human 协作模式
+- 自动化工作流
+- 个人知识系统与内容生产系统
+- 一人公司 / creator-led product mindset
 
 ## Motto
 
