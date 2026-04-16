@@ -8,19 +8,19 @@ AI 产品实践者 · 自媒体博主 · 持续构建者
 AI product practitioner · content creator · builder
 
 <p>
-  <a href="https://www.kw-aigc.cn">个人网站</a> •
-  <a href="https://mp.weixin.qq.com/s/7ME2FZdOVlEmVxlGE1NqsQ">公众号</a> •
-  <a href="https://www.xiaohongshu.com/user/profile/642c383e000000001001e9e4">小红书</a>
+  <a href="https://www.kw-aigc.cn"><img src="https://img.shields.io/badge/个人网站-D9C2A3?style=flat-square&logo=googlechrome&logoColor=5C4033" /></a>
+  <a href="https://mp.weixin.qq.com/s/7ME2FZdOVlEmVxlGE1NqsQ"><img src="https://img.shields.io/badge/公众号-C9A27E?style=flat-square&logo=wechat&logoColor=5C4033" /></a>
+  <a href="https://www.xiaohongshu.com/user/profile/642c383e000000001001e9e4"><img src="https://img.shields.io/badge/小红书-BB8C63?style=flat-square&logo=xiaohongshu&logoColor=5C4033" /></a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Products-111111?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agent%20Workflow-1a1a1a?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-2a2a2a?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-3a3a3a?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-4a4a4a?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-5a5a5a?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-6a6a6a?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Products-8B6B4A?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent%20Workflow-A37B54?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-6F7D61?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-B28A63?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-8E7C6B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-7A8B6F?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-8C7A6B?style=flat-square&logoColor=white" />
 </p>
 
 </div>
@@ -48,17 +48,13 @@ I work at the intersection of AI products, agent workflows, automation, and pers
 
 ## 技术栈 / Tech Stack
 
-**Product & AI**  
-AI Product Design · Workflow Design · Prompt Engineering · AI Evaluation
+| Product & AI | Engineering |
+| --- | --- |
+| AI Product Design<br>Workflow Design<br>Prompt Engineering<br>AI Evaluation | Python<br>JavaScript<br>TypeScript<br>Node.js<br>API Integration<br>CLI Tools |
 
-**Engineering**  
-Python · JavaScript · TypeScript · Node.js · API Integration · CLI Tools
-
-**Automation & Knowledge**  
-Agent Workflow · OpenClaw · Obsidian · Markdown · LLM Wiki
-
-**Building Style**  
-Rapid Prototyping · Solo-building · Vibe Coding
+| Automation & Knowledge | Building Style |
+| --- | --- |
+| Agent Workflow<br>OpenClaw<br>Obsidian<br>Markdown<br>LLM Wiki | Rapid Prototyping<br>Solo-building<br>Vibe Coding |
 
 ## 内容与写作 / Writing
 
@@ -74,12 +70,12 @@ I write about AI product reviews, automation practice, agent workflows, and pers
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KevinYoung-Kw&show_icons=true&hide_border=true&rank_icon=github&locale=cn&bg_color=00000000&title_color=111111&text_color=444444&icon_color=111111" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinYoung-Kw&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=111111&text_color=444444" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KevinYoung-Kw&show_icons=true&hide_border=true&rank_icon=github&locale=cn&bg_color=00000000&title_color=6B4F3A&text_color=8A6B52&icon_color=A67C52" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinYoung-Kw&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=6B4F3A&text_color=8A6B52" />
 </div>
 
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=KevinYoung-Kw&hide_border=true&locale=zh_Hans&background=FFFFFF00&ring=111111&fire=111111&currStreakLabel=111111&sideNums=444444&currStreakNum=111111&sideLabels=666666&dates=888888" />
+  <img height="160" src="https://streak-stats.demolab.com?user=KevinYoung-Kw&hide_border=true&locale=zh_Hans&background=FFFFFF00&ring=A67C52&fire=A67C52&currStreakLabel=6B4F3A&sideNums=8A6B52&currStreakNum=6B4F3A&sideLabels=9B7B60&dates=B59A7A" />
 </div>
 
 ## 当前关注 / Current Focus
