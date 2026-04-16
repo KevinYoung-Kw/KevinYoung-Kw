@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/experience-cover.webp" alt="水的离子积 banner" width="100%" />
+</p>
+
 <div align="center">
 
 # 水的离子积 / Kevin
