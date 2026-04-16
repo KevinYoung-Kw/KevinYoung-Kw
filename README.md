@@ -90,6 +90,7 @@ I write about AI product reviews, automation practice, agent workflows, and pers
 
 ## Contact
 
+- Email: `hi@kw-aigc.cn`
 - WeChat: `kwaigc`
 
 > 把工具跑进工作流，把实践沉淀成系统。  
