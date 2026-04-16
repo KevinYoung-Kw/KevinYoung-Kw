@@ -14,13 +14,13 @@ AI product practitioner · content creator · builder
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Products-111111?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agent%20Workflow-222222?style=flat-square&logo=claude&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Products-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent%20Workflow-1a1a1a?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-2a2a2a?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-3a3a3a?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-4a4a4a?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5a5a5a?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-6a6a6a?style=flat-square&logoColor=white" />
 </p>
 
 </div>
@@ -60,27 +60,6 @@ Agent Workflow · OpenClaw · Obsidian · Markdown · LLM Wiki
 **Building Style**  
 Rapid Prototyping · Solo-building · Vibe Coding
 
-## 置顶项目 / Featured Projects
-
-### [叉叉的空间 / chacha_space](https://github.com/KevinYoung-Kw/chacha_space)
-一个会逐步理解用户习惯的 AI 伙伴方向项目，聚焦陪伴、待办与个性化交互。  
-An AI companion project exploring memory, task management, and personalized interaction.
-
-**Stack:** TypeScript
-
-### [calculate-your-salary](https://github.com/KevinYoung-Kw/calculate-your-salary)
-一个把复杂计算做得更直观的工具型项目，也体现我偏好的产品思路：先解决真实问题，再优化体验表达。  
-A utility project that turns complicated calculation into a clearer user experience.
-
-**Live:** https://calculate-your-salary.vercel.app  
-**Stack:** TypeScript
-
-### [stoi-cli](https://github.com/KevinYoung-Kw/stoi-cli)
-偏向 CLI 与自动化场景的小工具实践，体现我对命令行工作流与效率工具的长期兴趣。  
-A small CLI/automation-oriented project reflecting my long-term interest in terminal workflows and productivity tools.
-
-**Stack:** Python
-
 ## 内容与写作 / Writing
 
 我持续分享 AI 产品深度测评、自动化实践、Agent 工作流，以及个人系统搭建。  
@@ -95,12 +74,12 @@ I write about AI product reviews, automation practice, agent workflows, and pers
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KevinYoung-Kw&show_icons=true&hide_border=true&rank_icon=github&locale=cn&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinYoung-Kw&layout=compact&hide_border=true&langs_count=6&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=KevinYoung-Kw&show_icons=true&hide_border=true&rank_icon=github&locale=cn&bg_color=00000000&title_color=111111&text_color=444444&icon_color=111111" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinYoung-Kw&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=111111&text_color=444444" />
 </div>
 
 <div align="center">
-  <img height="160" src="https://streak-stats.demolab.com?user=KevinYoung-Kw&hide_border=true&locale=zh_Hans" />
+  <img height="160" src="https://streak-stats.demolab.com?user=KevinYoung-Kw&hide_border=true&locale=zh_Hans&background=FFFFFF00&ring=111111&fire=111111&currStreakLabel=111111&sideNums=444444&currStreakNum=111111&sideLabels=666666&dates=888888" />
 </div>
 
 ## 当前关注 / Current Focus
