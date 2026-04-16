@@ -30,8 +30,8 @@ AI product practitioner · content creator · builder
 
 ## 关于我 / About
 
-我关注 AI 产品、Agent workflow、自动化工具链与个人知识系统，持续把实践沉淀为可复用的方法与内容。  
-I focus on AI products, agent workflows, automation toolchains, and personal knowledge systems—turning practice into reusable methods and content.
+我关注 AI 产品、Agent workflow、自动化工具链与个人知识系统，持续把实践沉淀为可复用的方法、原型与内容。  
+I focus on AI products, agent workflows, automation toolchains, and personal knowledge systems—turning practice into reusable methods, prototypes, and content.
 
 ## Focus
 
@@ -39,6 +39,19 @@ I focus on AI products, agent workflows, automation toolchains, and personal kno
 - Agent workflow / OpenClaw / automation
 - Obsidian / LLM Wiki / personal knowledge systems
 - 内容写作与实践复盘 / writing from hands-on practice
+
+## 当前关注 / Current Focus
+
+- AI-native 产品体验
+- Agent + Human 协作模式
+- 自动化工作流
+- 个人知识系统与内容生产系统
+- creator-led product mindset
+
+## 内容与写作 / Writing
+
+我持续分享 AI 产品深度测评、自动化实践、Agent 工作流，以及个人系统搭建。  
+I write about AI product reviews, automation practice, agent workflows, and personal systems.
 
 ## 技术栈 / Tech Stack
 
