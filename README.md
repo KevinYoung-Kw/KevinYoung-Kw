@@ -18,13 +18,13 @@ AI product practitioner · content creator · builder
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Products-8B6B4A?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agent%20Workflow-A37B54?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-6F7D61?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-B28A63?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-8E7C6B?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-7A8B6F?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-8C7A6B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Products-111111?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent%20Workflow-555555?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
 </p>
 
 </div>
@@ -52,13 +52,56 @@ I work at the intersection of AI products, agent workflows, automation, and pers
 
 ## 技术栈 / Tech Stack
 
-| Product & AI | Engineering |
-| --- | --- |
-| AI Product Design<br>Workflow Design<br>Prompt Engineering<br>AI Evaluation | Python<br>JavaScript<br>TypeScript<br>Node.js<br>API Integration<br>CLI Tools |
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-| Automation & Knowledge | Building Style |
-| --- | --- |
-| Agent Workflow<br>OpenClaw<br>Obsidian<br>Markdown<br>LLM Wiki | Rapid Prototyping<br>Solo-building<br>Vibe Coding |
+### Product & AI
+
+- AI Product Design
+- Workflow Design
+- Prompt Engineering
+- AI Evaluation
+
+</td>
+    <td width="50%" valign="top">
+
+### Engineering
+
+- Python
+- JavaScript
+- TypeScript
+- Node.js
+- API Integration
+- CLI Tools
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### Automation & Knowledge
+
+- Agent Workflow
+- OpenClaw
+- Obsidian
+- Markdown
+- LLM Wiki
+
+</td>
+    <td width="50%" valign="top">
+
+### Building Style
+
+- Rapid Prototyping
+- Solo-building
+- Vibe Coding
+
+</td>
+  </tr>
+</table>
+</div>
 
 ## 内容与写作 / Writing
 
